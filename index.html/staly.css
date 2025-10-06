@@ -1,0 +1,23 @@
+
+body {
+    background-color: #501c43;
+    color: white;
+    font-family: "Kalnia Glaze", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #8912a7;
+    color: rgba(99, 19, 85, 0.904);
+    font-family: "Kalnia Glaze", sans-serif;
+}
+.passo {
+    display: none;
+}
+.passo.ativo {
+    display:block;
+}
