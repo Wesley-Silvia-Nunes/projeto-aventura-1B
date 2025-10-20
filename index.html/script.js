@@ -9,6 +9,3 @@ avanca.forEach(button => {
         document.getElementById(proximoPasso).classList.add('ativo');
     })
 })
- <script src="script.js"></script>
-</body>
-</html>
